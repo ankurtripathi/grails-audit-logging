@@ -1,0 +1,10 @@
+target
+*.iml
+*.ipr
+*.iws
+.classpath
+.idea
+*.tld
+stacktrace.log
+out/
+plugin.xml
